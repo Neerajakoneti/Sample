@@ -1,1 +1,2 @@
 Hi!Welcome to Git Repository.
+This is a sample text document for hands on experience
