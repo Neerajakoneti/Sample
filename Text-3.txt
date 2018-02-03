@@ -1,0 +1,2 @@
+Hi!
+This is a sample text file for merging the branches
